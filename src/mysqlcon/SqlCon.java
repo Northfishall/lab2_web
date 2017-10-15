@@ -4,7 +4,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.sql.SQLException;
-
+//somechange in lab2 for git
 public class SqlCon {
 	private int i=0;
     Connection con =null;
